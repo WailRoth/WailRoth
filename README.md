@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Evershell,**
 
-- 🌱 I’m currently learning **NextJS, Typescript**
-
 - 👨‍💻 All of my projects are available at [https://wailroth.fr/](https://wailroth.fr/)
 
-- 💬 Ask me about **Spigot, NextJS**
+- 💬 Ask me about **Spigot, NextJS, Typescript and Java**
 
 - 📫 How to reach me **https://wailroth.fr/**
 
